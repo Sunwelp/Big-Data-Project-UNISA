@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hadoop_Outlet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hadoop_Outlet_jar</output-path>
+    <root id="archive" name="Hadoop_Outlet.jar">
+      <element id="module-output" name="Hadoop_Outlet" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/hadoop/hadoop/hadoop-client-3.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/hadoop/hadoop/hadoop-common-3.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/hadoop/hadoop/hadoop-mapreduce-client-core-3.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/hadoop/hadoop/hadoop-mapreduce-client-common-3.3.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

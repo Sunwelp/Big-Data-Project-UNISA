@@ -1,0 +1,5 @@
+Store_ID: OUT045, Low_Fat_Product: 570
+Store_ID: OUT049, Low_Fat_Product: 560
+Store_ID: OUT035, Low_Fat_Product: 559
+Store_ID: OUT013, Low_Fat_Product: 556
+Store_ID: OUT027, Low_Fat_Product: 553
